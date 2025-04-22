@@ -1,8 +1,3 @@
-# BasicNeuralNetworksCMPE258
-
----
-
-```markdown
 # 🧠 Deep Learning From Scratch – Multi-Framework Nonlinear Regression
 
 ## 🎯 Assignment Overview
@@ -49,9 +44,6 @@ Train a deep neural network to approximate this nonlinear function:
 
 ## 🧠 Model Architecture
 
-```
-Input (3D) → Dense(64) → ReLU → Dense(32) → ReLU → Dense(1)
-```
 
 - Used across all frameworks for consistency  
 - Ensures apples-to-apples comparison of different APIs
@@ -100,11 +92,9 @@ Each notebook is self-contained:
 
 ## 🙌 Author
 
-Submitted by [Your Name]  
+Submitted by Mohibkhan Pathan  
 MS Software Engineering, San José State University  
 Spring 2025
 
 ---
-
-```
 
