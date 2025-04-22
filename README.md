@@ -44,6 +44,7 @@ Train a deep neural network to approximate this nonlinear function:
 
 ## 🧠 Model Architecture
 
+Input (3D) → Dense(64) → ReLU → Dense(32) → ReLU → Dense(1)
 
 - Used across all frameworks for consistency  
 - Ensures apples-to-apples comparison of different APIs
