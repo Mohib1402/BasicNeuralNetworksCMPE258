@@ -9,7 +9,7 @@ We use a custom 3-variable nonlinear function and train all networks to approxim
 
 📅 **Due Date:** March 6  
 📌 **Points:** 100  
-🎥 **Video:** Full walkthrough of all Colabs [📺 Watch here](https://youtube.com/your-final-video-link)
+🎥 **Video:** Full walkthrough of all Colabs [📺 Watch here](https://drive.google.com/file/d/1CJyPaDWG9YGZYjq8xwCN8jvlpHio0KL0/view?usp=sharing)
 
 ---
 
@@ -72,7 +72,7 @@ Input (3D) → Dense(64) → ReLU → Dense(32) → ReLU → Dense(1)
 
 ## 🎥 Video Walkthrough
 
-🔗 [**Watch the full video walkthrough here**](https://youtube.com/your-final-video-link)
+🔗 [**Watch the full video walkthrough here**](https://drive.google.com/file/d/1CJyPaDWG9YGZYjq8xwCN8jvlpHio0KL0/view?usp=sharing)
 
 Covers:
 - Problem explanation
